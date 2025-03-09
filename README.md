@@ -1,1 +1,22 @@
-# ITHS_WEB_Labb02
+# E-Handel (Fullstack: Labb02)
+
+Ett arbete på [IT Högskolan](https://www.iths.se/) av [Marcus Renvall](https://github.com/llavner).
+
+
+## Innehåll:
+-  SQL Database
+-  Repository Pattern
+-  Blazor WASM
+-  REST API
+
+
+## Screenshots:
+n/a
+
+
+## Kontakt:
+
+### Marcus
+- **Email:** [marcus.renvall@gmail.com](mailto:marcus.renvall@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/marcus-renvall-4b5422324)
+- **GitHub:** [Github Profile](https://github.com/llavner)
